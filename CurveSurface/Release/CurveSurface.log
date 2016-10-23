@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/10/19 15:35:07。
+     1>项目“F:\学习资料\计算机图形学\CurveSurface\CurveSurface\CurveSurface.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\学习资料\计算机图形学\CurveSurface\Release\”。
+         正在创建目录“Release\CurveSurface.tlog\”。
+       InitializeBuildStatus:
+         正在创建“Release\CurveSurface.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         G:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\CurveSurface.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt glCanvas.cpp main.cpp matrix.cpp spline_parser.cpp stdafx.cpp triangle_mesh.cpp
+         glCanvas.cpp
+     1>glCanvas.cpp(2): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+         main.cpp
+     1>main.cpp(1): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+         matrix.cpp
+     1>matrix.cpp(4): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+         spline_parser.cpp
+     1>spline_parser.cpp(1): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+         stdafx.cpp
+     1>stdafx.cpp(5): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+         triangle_mesh.cpp
+     1>triangle_mesh.cpp(1): fatal error C1083: 无法打开预编译头文件: “Release\CurveSurface.pch”: No such file or directory
+     1>已完成生成项目“F:\学习资料\计算机图形学\CurveSurface\CurveSurface\CurveSurface.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.27

@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/10/21 16:45:06。
+     1>项目“F:\学习资料\计算机图形学\CurveSurface\CurveSurface\CurveSurface.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CurveSurface.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         G:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D "_CRT_SECURE_NO_DEPRECATE" spline_parser.cpp
+         spline_parser.cpp
+       Link:
+         G:\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\学习资料\计算机图形学\CurveSurface\Debug\CurveSurface.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\学习资料\计算机图形学\CurveSurface\Debug\CurveSurface.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\学习资料\计算机图形学\CurveSurface\Debug\CurveSurface.lib" /MACHINE:X86 Debug\glCanvas.obj
+         Debug\main.obj
+         Debug\matrix.obj
+         Debug\spline_parser.obj
+         Debug\stdafx.obj
+         Debug\triangle_mesh.obj
+         CurveSurface.vcxproj -> F:\学习资料\计算机图形学\CurveSurface\Debug\CurveSurface.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CurveSurface.tlog\unsuccessfulbuild”。
+         正在对“Debug\CurveSurface.tlog\CurveSurface.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\学习资料\计算机图形学\CurveSurface\CurveSurface\CurveSurface.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.13
